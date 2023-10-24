@@ -1,0 +1,146 @@
+﻿CODEBOOK
+
+
+GAD-7 – Assessment tool for Generalized Anxiety Disorder
+* scores 7 common anxiety symptoms
+* for official scoring, total score
+https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf
+https://www.dartmouth-hitchcock.org/sites/default/files/2021-02/gad-7-anxiety-scale.pdf
+
+
+Over the last 2 weeks, how often have you been bothered by the following problems?
+1. Feeling nervous, anxious or on edge
+2. Not being able to stop or control worrying
+3. Worrying too much about different things
+4. Trouble relaxing
+5. Being so restless that it is hard to sit still
+6. Becoming easily annoyed or irritable
+7. Feeling afraid as if something awful might happen
+Score: 0 = Not at all; 1 = Several Days; 2 = More than half the days; 3 = Nearly every day
+
+
+(GAD_E) If you checked off any problems, how difficult have these made it for you to do your work, take care of things at home, or get along with other people? 
+
+
+Not difficult at all __________ 
+Somewhat difficult _________ 
+Very difficult _____________ 
+Extremely difficult _________ 
+
+
+Scoring:
+Score : Anxiety Severity
+0 - 4 :	None - Minimal
+5 - 9 : Mild
+10 - 14 : Moderate
+15 - 21 : Severe
+
+https://mantracare.org/therapy/anxiety/gad-7/#Scoring_The_GAD-7_Scale 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPIN (Social Phobia Inventory)
+https://greenspacehealth.com/en-us/social-anxiety-spin/
+https://psychology-tools.com/test/spin
+
+
+For each statement below, please select the number that best describes how you have been feeling during the last week, on a scale from (0-4): :
+1. I am afraid of people in authority
+2. I am bothered by blushing in front of people
+3. Parties and social events scare me
+4. I avoid talking to people I don’t know
+5. Being criticized scares me a lot
+6. I avoid doing things or speaking to people for fear of embarrassment
+7. Sweating in front of people causes me distress
+8. I avoid going to parties
+9. I avoid activities in which I am the center of attention
+10. Talking to strangers scares me
+11. I avoid having to give speeches
+12. I would do anything to avoid being criticized
+13. Heart palpitations bother me when I am around people
+14. I am afraid of doing things when people might be watching
+15. Being embarrassed or looking stupid are among my worst fears
+16. I avoid speaking to anyone in authority
+17. Trembling or shaking in front of others is distressing to me
+
+
+0 = Not at all
+1 = A little bit
+2 = Somewhat
+3 = Very Much
+4 = Extremely
+
+
+Scoring: The total SPIN score is calculated by adding up all of the items. 
+* A score above 19 appears to suggest a possibility of social anxiety and in research distinguished between social phobia and a control group. 
+* The possible range is between 0 and 68.
+Score : Symptom Severity
+0 - 20 : None
+21 - 30 : Mild
+31 - 40 : Moderate
+41 - 50 : Severe
+51 - 68 : Very Severe
+
+SWL (Satisfaction With Life Scale - 5 question assessment)
+https://fetzer.org/sites/default/files/images/stories/pdf/selfmeasures/SATISFACTION-SatisfactionWithLife.pdf
+https://www.mdapp.co/satisfaction-with-life-swl-scale-calculator-367/
+
+
+Scale:
+
+
+Instructions: Below are five statements that you may agree or disagree with. Using the 1 -
+7 scale below, indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding.
+
+
+• 7 - Strongly agree
+• 6 - Agree
+• 5 - Slightly agree
+• 4 - Neither agree nor disagree
+• 3 - Slightly disagree
+• 2 - Disagree
+• 1 - Strongly disagree
+____ In most ways my life is close to my ideal.
+____ The conditions of my life are excellent.
+____ I am satisfied with my life.
+____ So far I have gotten the important things I want in life.
+____ If I could live my life over, I would change almost nothing.
+
+
+Scoring:
+Though scoring should be kept continuous (sum up scores on each item), here are some cutoffs to be used as benchmarks.
+Score : Interpretation
+31 - 35 : Extremely Satisfied
+26 - 30 : Satisfied
+21 - 25 : Slightly satisfied
+20 : Neutral
+15 - 19 : Slightly dissatisfied
+10 - 14 : Dissatisfied
+5 - 9 : Extremely dissatisfied
+	
+
+
+
+
+
+Game – fill-in (mostly competitive PC games)
+Whyplay – chosen response
+Earnings – chosen response
+Hours – hours played per week (?)
+Streams – hours per week (?)
+League – fill-in
+Highestleague – fill-in
+Narcissism – what does this column mean?
